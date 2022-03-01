@@ -10,3 +10,4 @@ readln("%d", &x);
 y = cos(x);
 writeln("Result : %d", y)
 }
+ 
