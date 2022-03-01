@@ -8,6 +8,7 @@ main()
 int y,x;
 readln("%d", &x);
 y = cos(x);
+y=y*2
 writeln("Result : %d", y)
 }
  
